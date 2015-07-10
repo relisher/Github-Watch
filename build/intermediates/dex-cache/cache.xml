@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Projects\JsoupAndroidTrial\app\build\libs\java-json.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="edad9c5de6fb8df07c535a47045956026011ffa3">
+        <dex dex="C:\Projects\JsoupAndroidTrial\app\build\intermediates\pre-dexed\debug\java-json-1d2ba71720c347087582e502cc5a488ac9fc3d3d.jar" />
+    </item>
+    <item
+        jar="C:\Projects\JsoupAndroidTrial\app\build\libs\jsoup-1.8.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="580e4dd2a6125cc4037450b40623ac6a552c11df">
+        <dex dex="C:\Projects\JsoupAndroidTrial\app\build\intermediates\pre-dexed\debug\jsoup-1.8.2-9a5ff7425edcaf86754dbfb65852efae25c48043.jar" />
+    </item>
+
+</items>
